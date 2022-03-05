@@ -10,8 +10,8 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 🌐 &nbsp; JavaScript | jQuery | Vue JS | TypeScript | ECMAScript | NodeJS | ReactJS | Redux | Styled Components | Unit Tests
-- 🌐 &nbsp; HTML | CSS  | SASS | Tailwindcss | Material UI | Bootstrap
+- 🌐 &nbsp; JavaScript | TypeScript | NodeJS | ReactJS | Redux | Styled Components | Unit Tests
+- 🌐 &nbsp; HTML | CSS  | SASS | TailwindCSS | Material UI | Bootstrap
 - 🔧 &nbsp; Git | Github
 
 
