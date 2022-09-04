@@ -4,7 +4,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;Me </h3>
 
-- 🎓 &nbsp; Web Design and Programming student
+- 🎓 &nbsp; Computer Programming (Science) student
 - :rocket: &nbsp; Learning; Frontend Technologies
 - 💼 &nbsp; I live in Istanbul/TURKEY 
 
