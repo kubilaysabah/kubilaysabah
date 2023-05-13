@@ -6,7 +6,7 @@
 
 - 🎓 &nbsp; Computer Programming (Science) student
 - :rocket: &nbsp; Learning; Frontend Technologies
-- 💼 &nbsp; I live in Istanbul/TURKEY 
+- 💼 &nbsp; I live in Bursa/TURKEY 
 
 <h3>🛠 Tech Stack</h3>
 
